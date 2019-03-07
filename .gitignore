@@ -1,0 +1,4 @@
+*.suo
+MyDirectX11/.vs/
+MyDirectX11/Debug/
+MyDirectX11/Release/
